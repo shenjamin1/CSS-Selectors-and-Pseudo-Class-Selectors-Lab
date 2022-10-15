@@ -1,0 +1,10 @@
+#topbox {
+    height: 300px;
+    width: 300px;
+    background-color: orangered;
+    border-radius: 15px;
+    box-shadow: 10px 10px lightgray;
+
+    /* This task took me about 20 minutes to complete. Everything went well except the border-radius and box-shadow,
+       which took a little longer than expected. */
+}

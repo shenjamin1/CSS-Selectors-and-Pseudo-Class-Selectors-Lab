@@ -1,0 +1,23 @@
+/* removes vertical borders */
+table, th, td {
+   border: 0px solid;
+   border-collapse: collapse;
+}
+
+/* sets light border between rows */
+tr {
+    border: 1px solid #c4dcf3;
+}
+
+/* changes the color and size of the heading */
+.heading {
+    background-color: #427FEF;
+    color: white;
+}
+
+/* makes every other row green */
+.odd {
+    background-color: #C1E1C1;
+}
+
+/* This task took me about 30 minutes. Everything went well, except for the verticle borders, which took a while. */
